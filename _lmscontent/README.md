@@ -18,7 +18,7 @@ using the `training.pem` private key like so:
 
 `ssh -l centos -i training.pem 10.32.171.145`
 
-
+  
 ## Folder structure 
 
 ![Learning component folder structure](README/git_learndot.svg "Learning component folder structure")
